@@ -1,0 +1,17 @@
+﻿  main.cpp
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(31,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(34,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(37,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(52,22): warning C4018: '<': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(69,23): warning C4018: '<': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(79,42): warning C4018: '>': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(79,62): warning C4018: '>': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(90,23): warning C4018: '<': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(100,42): warning C4018: '>': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(100,62): warning C4018: '>': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(116,24): warning C4018: '<': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(125,30): warning C4018: '>': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(138,24): warning C4018: '<': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(148,43): warning C4018: '>': signed/unsigned mismatch
+F:\misha\UNN\Basics of programming\labs\polinom\Polinom\sample\main.cpp(148,63): warning C4018: '>': signed/unsigned mismatch
+  sample.vcxproj -> F:\misha\UNN\Basics of programming\labs\polinom\Polinom\Debug\sample.exe

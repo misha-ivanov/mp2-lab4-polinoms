@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Data\UNN\Basics of programming\labs\mp2-lab4-polinoms\mp2-lab4-polinoms\sample\main.cpp(31,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Data\UNN\Basics of programming\labs\mp2-lab4-polinoms\mp2-lab4-polinoms\sample\main.cpp(34,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Data\UNN\Basics of programming\labs\mp2-lab4-polinoms\mp2-lab4-polinoms\sample\main.cpp(37,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  sample.vcxproj -> C:\Data\UNN\Basics of programming\labs\mp2-lab4-polinoms\mp2-lab4-polinoms\x64\Debug\sample.exe

@@ -1,0 +1,3 @@
+﻿D:\VStudio\2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab_polinom.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  polinom.cpp
+  lab_polinom.vcxproj -> F:\misha\UNN\Basics of programming\labs\polinom\Polinom\Debug\polinom.lib
